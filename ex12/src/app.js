@@ -14,6 +14,4 @@ var app = new Vue({
         message: 'Hello Vue! 부모 parent component에서 왔어! ',
         anotherMessage: 'Hello Vue.js! passed from Parent Component'
 }
-
-
 })

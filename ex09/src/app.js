@@ -1,6 +1,6 @@
 Vue.component("child-component", {
-    props: ["propsData"],
-    template: "<p>{{ propsData }}</p>"
+    props: ['propsdata'],
+    template: "<p>{{ propsdata }}</p>"
 });
 
 
